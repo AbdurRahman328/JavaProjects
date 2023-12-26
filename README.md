@@ -5,4 +5,5 @@ List of projects in this JAVA folder are :
 
 1. Parathesis Checker
 2. XO Game
-3. 
+3. Number Guessing Game
+4. Random Number Generator
